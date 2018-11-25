@@ -1,15 +1,13 @@
 # Game-Critique-Spider-Man-The-Heist-
 
-This assignment is to get us all "thinking like testers!"
-
-Pick a video game you either already know well, or are willing to spend some time with. No restrictions on genre or platform.  Spend at least 1 hour playing the game and reviewing it from a tester’s perspective. You will write a short review and give a 3-5 minute review on this game.
-
-Review
+### Review
 
 Type 1-2 paragraphs reviewing selected game. Your audience is the class, keep your review simple and understandable to a novice tester. Your task is to advise your classmates about the game and aspects that should be tested. Submit assignment via a link to a github markdown file hosted in your personal site. 
 
-Give title of game, type of game and game designer/maker 
 Name 3-5 aspects of the game you think should be tested and why?
+
+Marvel's Spider-Man for the PlayStation 4 is an open-world action adventure game. It was developed by Insomniac Games and was released earlier this year. I played the first of three DLC expansions for Spider-Man. The first expansion is called "The Heist." It has the player track down Felicia Hardy, aka The Black Cat, as she steals from various mob families. The expansion also adds new suits, new sidemissions, and new enemies. One new enemy is a brute that shoots a gatling gun. 
+
 Example: 
 
 The tennis game on Wii Sports is a very fun and easy game to play. The maker of Wii sports is Nintendo and there are several other sports that can be played on the Wii Sports game disc. After playing the tennis game on Wii Sports, there are several functions I think a tester would look at.
