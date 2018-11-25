@@ -2,7 +2,7 @@
 
 ### Review
 
-Type 1-2 paragraphs reviewing selected game. Your audience is the class, keep your review simple and understandable to a novice tester. Your task is to advise your classmates about the game and aspects that should be tested. Submit assignment via a link to a github markdown file hosted in your personal site. 
+Type 1-2 paragraphs reviewing selected game. Keep your review simple and understandable to a novice tester. Your task is to advise your classmates about the game and aspects that should be tested.
 
 Name 3-5 aspects of the game you think should be tested and why?
 
