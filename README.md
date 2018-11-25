@@ -6,7 +6,7 @@ Type 1-2 paragraphs reviewing selected game. Your audience is the class, keep yo
 
 Name 3-5 aspects of the game you think should be tested and why?
 
-Marvel's Spider-Man for the PlayStation 4 is an open-world action adventure game. It was developed by Insomniac Games and was released earlier this year. I played the first of three DLC expansions for Spider-Man. The first expansion is called "The Heist." It has the player track down Felicia Hardy, aka The Black Cat, as she steals from various mob families. The expansion also adds new suits, new sidemissions, and new enemies. One new enemy is a brute that shoots a gatling gun. 
+Marvel's Spider-Man for the PlayStation 4 is an open-world action adventure game. It was developed by Insomniac Games and was released earlier this year. The base game would have the player take control as Spider-Man as he swings around New York, stopping crimes, solving mysteries, and chasing down bad guys. A few collectables are scattered throughtout the city for the player to find, encouraging exploration. There are a few missions that had the player take control of either Mary Jane Watson or Miles Morales. However, I focused on the first of three DLC expansions for Spider-Man. The first expansion is called "The Heist." It has the player track down Felicia Hardy, aka The Black Cat, as she steals from various mob families. The expansion also adds new suits, new sidemissions, and new enemies. One new enemy is a brute that shoots a gatling gun. 
 
 Example: 
 
